@@ -58,7 +58,7 @@ It then analyzes how the model responds, classifies its moral alignment (e.g., U
 
 ```bash
 # Clone the project
-git clone https://github.com/yourusername/moralctrl.git
+git clone https://github.com/synopsys32/moralctrl.git
 cd moralctrl
 
 # Launch the GUI
